@@ -1,4 +1,4 @@
-# Registro de Despesas :safe_box:
+# Registro de Despesas
 
 #### Site feito com Bootstrap criado para registro e consulta de despesas pessoais
 
